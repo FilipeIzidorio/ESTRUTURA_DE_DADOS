@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "AULA_04_02_25",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "AULA_04_02_25::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AULA_04_02_25-Debug-101629c6725b097fbc4b.json",
+					"name" : "AULA_04_02_25",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/HD INTERNO/FACULDADE/2025.1/ESTRUTURA DE DADOS/ATIVIDADES/AULA-04-02-25/cmake-build-debug",
+		"source" : "E:/HD INTERNO/FACULDADE/2025.1/ESTRUTURA DE DADOS/ATIVIDADES/AULA-04-02-25"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
